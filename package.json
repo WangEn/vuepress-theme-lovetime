@@ -1,0 +1,9 @@
+{
+  "name": "vuepress-theme-lovetime",
+  "version": "0.0.1",
+  "description": "lovetime自定义主题",
+  "main": "index.js",
+  "repository": "git@github.com:WangEn/vuepress-theme-lovetime.git",
+  "author": "Warn <imwarn@163.com>",
+  "license": "MIT"
+}
